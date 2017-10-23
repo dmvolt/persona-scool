@@ -1,0 +1,11 @@
+<?php
+return [
+	'PREFERENCE_BACK_FORM_ID' => 'ID',
+    'PREFERENCE_BACK_FORM_TITLE' => 'Title',
+	'PREFERENCE_BACK_FORM_FILE' => 'New image file',
+    'PREFERENCE_BACK_FORM_TEASER' => 'Teaser',
+    'PREFERENCE_BACK_FORM_BODY' => 'Body',
+    'PREFERENCE_BACK_FORM_ALIAS' => 'Alias',
+    'PREFERENCE_BACK_FORM_WEIGHT' => 'Weight',
+    'PREFERENCE_BACK_FORM_STATUS' => 'Active',
+];

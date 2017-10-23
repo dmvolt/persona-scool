@@ -1,0 +1,10 @@
+**/web/assets/
+**/web/files/
+**/web/video/
+**/public_html/assets/
+**/public_html/files/
+**/public_html/video/
+**/runtime/
+**/vendor/
+**/git_reps/
+config/db.php

@@ -1,0 +1,24 @@
+.card, .article {
+	position:relative;
+}
+
+/* Ссылка для редактирования */
+.edit-link {
+	position: absolute;
+    top: 0px;
+    right: 0px;
+	margin: 0.25em;
+    background-color: #a970ba;
+    border-radius: 4px;
+    font-size: 0.85em;
+    /* width: 1.75em; */
+    height: 1.75em;
+    line-height: 1.75em;
+	padding: 0 0.35rem;
+    color: #fff;
+	z-index:999;
+}
+
+.page--obj .box h1 {
+    font-size: 1.5em;
+}

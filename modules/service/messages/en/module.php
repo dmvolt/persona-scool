@@ -1,0 +1,19 @@
+<?php
+return [
+	'SERVICE_BACK_FORM_ID' => 'ID',
+	'SERVICE_BACK_FORM_PARENTID' => 'Parent',
+	'SERVICE_BACK_FORM_TITLE' => 'Title',
+	'SERVICE_BACK_FORM_FILE' => 'New image1 file',
+	'SERVICE_BACK_FORM_FILE2' => 'New image2 file',
+	'SERVICE_BACK_FORM_TEASER1' => 'Teaser1',
+	'SERVICE_BACK_FORM_TEASER2' => 'Teaser2',
+	'SERVICE_BACK_FORM_BODY' => 'Body',
+	'SERVICE_BACK_FORM_TEXT1' => 'Price',
+	'SERVICE_BACK_FORM_TEXT2' => 'Left text',
+	'SERVICE_BACK_FORM_TEXT3' => 'Bottom text',
+	'SERVICE_BACK_FORM_ALIAS' => 'Alias',
+	'SERVICE_BACK_FORM_COLOR' => 'Color',
+	'SERVICE_BACK_FORM_WEIGHT' => 'Weight',
+	'SERVICE_BACK_FORM_IN_FRONT' => 'Is type',
+	'SERVICE_BACK_FORM_STATUS' => 'Active',
+];
